@@ -1,0 +1,14 @@
+# Compiled binaries
+mlp
+dataset_creation
+*.o
+*.out
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
