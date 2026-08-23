@@ -1,13 +1,12 @@
 # Compiled binaries
 mlp
-dataset_creation
+kmeans
 *.o
 *.out
 
-# Editor / OS noise
-.vscode/
-.idea/
-.DS_Store
+# Generated datasets (recreated on first run)
+mlp_data.txt
+kmeans_data.txt
 
 # Notebook checkpoints
 .ipynb_checkpoints/
